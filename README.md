@@ -18,3 +18,14 @@ Learn SQL
 - We can use queries to get required result
 - Enables us to perform CRUD operations on Database
 - Examples - MySQL, SQL, PostgreSQL
+
+## What is SQL?
+
+- Structured Query Language
+- Used to define Database Structure (DDL - Data Definition Language)
+- Manipulates Data in Database (DML - Data Manipulation Language)
+- SQL can:
+  1. CREATE
+  2. UPDATE
+  3. DELETE
+  4. JOIN
