@@ -11,3 +11,10 @@ Learn SQL
 
 - Entity -- user (rows)
 - Attributes -- name, age, ... (columns)
+
+## What is RDBMS?
+
+- Relational Database Management System
+- We can use queries to get required result
+- Enables us to perform CRUD operations on Database
+- Examples - MySQL, SQL, PostgreSQL
